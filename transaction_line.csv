@@ -1,0 +1,12 @@
+id,transaction_header_id,item_ordered,size,quantity
+1,1,burger,jumbo,1
+2,2,burger,medium,1
+3,3,burger,jumbo,2
+4,4,fries,medium,1
+5,5,cola,jumbo,2
+6,6,burger,medium,3
+7,7,cola,jumbo,2
+8,8,burger,medium,6
+9,9,burger,jumbo,1
+10,10,cola,medium,3
+11,11,burger,jumbo,1
